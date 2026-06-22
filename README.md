@@ -1,17 +1,48 @@
 # Python 练习
 
-存放Fish在Python学习过程中的练习代码
+存放 Python 学习过程中的练习代码。
 
-## 文件说明
+---
 
-- `day2text.py` ~ `day4demo.py` — 基础语法的练习
-- `game.py` — 猜数字小游戏
-- `coin_toss.py` — 抛硬币模拟
-- `tianqi.py` / `weather.py` — 天气查询脚本
-- `Einstein.py` — 爱因斯坦谜题
-- `narcissistic.py` — 水仙花数
-- `twoSum0.py` — 两数之和
+## 🌤️ tianqi.py
 
-## 技术栈
+大二时老师让写简历，没什么能写的，就跟着豆包学了这个天气查询脚本。
 
-- Python
+第一次认识了 `requests` 库——原来几行代码就能从网上拿到数据，感觉很奇妙。算是编程路上第一个"能用的东西"。
+
+---
+
+## 🤖 FirstAIProject.py
+
+在抖音上刷到一个油管博主讲 AI 开发，被吸引了，想试试自己能不能也搞一个。跟着教程一步步走：
+
+1. 向大模型发起 API 调用
+2. 用 `pip install` 安装他们的 SDK，写 10 行代码，发送提示词，打印 AI 的响应
+3. 把调用封装成一个函数，接收用户输入
+4. 放在循环里，变成简单的 CLI 聊天机器人
+5. 加上对话记忆，升级成带记忆的 CLI 聊天机器人
+
+> 这个文件已经是最后版本了，后悔当初把最开始写的初版删掉了 😭
+
+---
+
+## 🕷️ yuanrenmcode.py
+
+了解到爬虫之后，跟着豆包攻克的第一个网页。
+
+这个网站的数据需要先获取 md5 值再解密才能拿到，折腾了好一阵子，最后跑通的那一刻特别爽。
+
+---
+
+## 🐟 跟着小甲鱼写的练习
+
+以下文件是跟着小甲鱼的 Python 教程写的课后练习：
+
+`3.26test.py` `4.12.py` `4.15.py` `5.5.py` `brackets.py` `coin_toss.py` `day2text.py` `day3text.py` `day4demo.py` `demo.py` `Einstein.py` `game.py` `jiaogu.py` `leep_year.py` `narcissistic.py` `random.py` `sum.py` `text.py` `text2.py` `twoSum0.py` `weather.py` `week1.py` `week2.py` `wheat.py` `练习1创建变量.py`
+
+---
+
+## 🛠️ 技术栈
+
+- Python 
+
