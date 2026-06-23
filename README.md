@@ -4,16 +4,15 @@
 
 ---
 
-## 🌤️ tianqi.py
-
-大二时老师让写简历，没什么能写的，就跟着豆包学了这个天气查询脚本。
-
-第一次认识了 `requests` 库——原来几行代码就能从网上拿到数据，爬虫的核心应该是这个玩意。
+##   在GitHub上clone的练习
+[仓库链接](https://github.com/Python-World/python-mini-projects)
+`tianqi.py`
 
 ---
 
-## 🤖 FirstAIProject.py
+## 🤖 CLI聊天机器人
 
+`FirstAIProject.py`
 在抖音上刷到一个油管博主讲 AI 开发，被吸引了，想试试自己能不能也搞一个。跟着教程一步步走：
 
 1. 向大模型发起 API 调用
@@ -26,11 +25,16 @@
 
 ---
 
-## 🕷️ yuanrenmcode.py
+## 🕷️ 爬虫
 
-了解到爬虫之后，跟着豆包攻克的第一个网页。
+了解到爬虫之后，跟着豆包攻克的第一个网页：
 
-这个网站的数据需要先获取 md5 值再解密才能拿到，折腾了好一阵子，最后跑通的那一刻特别爽。
+`yuanrenmcode.py`
+
+
+跟着抖音校长将Python写的爬取抖音视频的代码：
+
+`dy-spider.py`
 
 ---
 
