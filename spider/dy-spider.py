@@ -2,6 +2,8 @@ import requests     # 响应爬取
 from DrissionPage import ChromiumPage   # 谷歌
 import re   # 正则表达式
 import os   # 系统操作
+from dotenv import load_dotenv
+load_dotenv()
 
 # 创建文件夹
 os.makedirs((r"D:\爬虫视频"), exist_ok=True)
