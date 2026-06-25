@@ -1,52 +1,53 @@
 # 🐟 Fish — Python 学习仓库
 
 存放 Python 学习过程中的练习代码。
+
 ---
 
 ## 📁 目录结构
 
 ```
 Fish/
-├── FishC/          # 小甲鱼 Python 教程课后练习
-├── spider/         # 爬虫实战
-├── AICLI/          # AI 命令行聊天机器人
-└── projects/       # GitHub 上 clone 的开源项目集合
+├── basic-exercises/   # Python 基础练习
+├── spider/            # 爬虫实战
+├── AICLI/             # AI 命令行聊天机器人
+└── projects/          # GitHub 上 clone 的开源项目集合
 ```
 
 ---
 
-##  FishC — 小甲鱼 Python 教程练习
+## 🐍 Python 基础练习
 
-跟着 [小甲鱼](https://fishc.com.cn) 的 Python 教程写的课后练习，从变量、条件判断到函数、面向对象，一步一个脚印。
+网上学完找的练习。
 
-| 文件 | 知识点 / 内容 | 日期 |
-|------|-------------|------|
-| [text.py](FishC/text.py) | 基础输出与字符串 | 03-11 |
-| [text2.py](FishC/text2.py) | 字符串操作 | 03-11 |
-| [day2text.py](FishC/day2text.py) | 第二天练习 | 03-12 |
-| [game.py](FishC/game.py) | 猜数字小游戏 | 03-12 |
-| [random.py](FishC/random.py) | random 模块 | 03-12 |
-| [wheat.py](FishC/wheat.py) | 麦粒棋盘问题 | 03-12 |
-| [sum.py](FishC/sum.py) | 求和运算 | 03-12 |
-| [leep_year.py](FishC/leep_year.py) | 闰年判断 | 03-12 |
-| [Einstein.py](FishC/Einstein.py) | 爱因斯坦阶梯问题 | 03-18 |
-| [day3text.py](FishC/day3text.py) | 第三天练习 | 03-18 |
-| [jiaogu.py](FishC/jiaogu.py) | 角谷猜想 | 03-18 |
-| [coin_toss.py](FishC/coin_toss.py) | 硬币抛掷模拟 | 03-19 |
-| [day4demo.py](FishC/day4demo.py) | 第四天练习 | 03-19 |
-| [demo.py](FishC/demo.py) | 综合练习 | 03-24 |
-| [3.26test.py](FishC/3.26test.py) | 随堂测试 | 03-26 |
-| [narcissistic.py](FishC/narcissistic.py) | 水仙花数 | 03-26 |
-| [twoSum0.py](FishC/twoSum0.py) | 两数之和（力扣风格） | 03-31 |
-| [week1.py](FishC/week1.py) | 第一周复习 | 04-11 |
-| [week2.py](FishC/week2.py) | 第二周复习 | 04-11 |
-| [weather.py](FishC/weather.py) | 天气预报查询 | 04-11 |
-| [4.12.py](FishC/4.12.py) | 课堂练习 | 04-12 |
-| [brackets.py](FishC/brackets.py) | 括号匹配 | 04-12 |
-| [4.15.py](FishC/4.15.py) | 课堂练习 | 04-15 |
-| [tianqi.py](FishC/tianqi.py) | 天气爬虫初探 | 04-26 |
-| [5.5.py](FishC/5.5.py) | 课堂练习 | 05-05 |
-| [练习1创建变量.py](FishC/练习1创建变量.py) | 变量基础练习 | 05-16 |
+| 文件 | 知识点 / 内容 |
+|------|-------------|
+| [text.py](basic-exercises/text.py) | 基础输出与字符串 |
+| [text2.py](basic-exercises/text2.py) | 字符串操作 |
+| [day2text.py](basic-exercises/day2text.py) | 第二天练习 |
+| [game.py](basic-exercises/game.py) | 猜数字小游戏 |
+| [random.py](basic-exercises/random.py) | random 模块 |
+| [wheat.py](basic-exercises/wheat.py) | 麦粒棋盘问题 |
+| [sum.py](basic-exercises/sum.py) | 求和运算 |
+| [leep_year.py](basic-exercises/leep_year.py) | 闰年判断 |
+| [Einstein.py](basic-exercises/Einstein.py) | 爱因斯坦阶梯问题 |
+| [day3text.py](basic-exercises/day3text.py) | 第三天练习 |
+| [jiaogu.py](basic-exercises/jiaogu.py) | 角谷猜想 |
+| [coin_toss.py](basic-exercises/coin_toss.py) | 硬币抛掷模拟 |
+| [day4demo.py](basic-exercises/day4demo.py) | 第四天练习 |
+| [demo.py](basic-exercises/demo.py) | 综合练习 |
+| [3.26test.py](basic-exercises/3.26test.py) | 随堂测试 |
+| [narcissistic.py](basic-exercises/narcissistic.py) | 水仙花数 |
+| [twoSum0.py](basic-exercises/twoSum0.py) | 两数之和（力扣风格） |
+| [week1.py](basic-exercises/week1.py) | 第一周复习 |
+| [week2.py](basic-exercises/week2.py) | 第二周复习 |
+| [weather.py](basic-exercises/weather.py) | 天气预报查询 |
+| [4.12.py](basic-exercises/4.12.py) | 课堂练习 |
+| [brackets.py](basic-exercises/brackets.py) | 括号匹配 |
+| [4.15.py](basic-exercises/4.15.py) | 课堂练习 |
+| [tianqi.py](basic-exercises/tianqi.py) | 天气爬虫初探 |
+| [5.5.py](basic-exercises/5.5.py) | 课堂练习 |
+| [练习1创建变量.py](basic-exercises/练习1创建变量.py) | 变量基础练习 |
 
 ---
 
@@ -54,10 +55,11 @@ Fish/
 
 了解爬虫之后，开始上手实战项目。
 
-| 文件 | 描述 | 日期 |
-|------|------|------|
-| [yuanrenmcode.py](spider/yuanrenmcode.py) | 跟着豆包攻克的第一个爬虫网页 | 04-19 |
-| [dy-spider.py](spider/dy-spider.py) | 跟着抖音校长写的爬取抖音视频 | 06-24 |
+| 文件 | 描述 |
+|------|------|
+| [yuanrenmcode.py](spider/yuanrenmcode.py) | 跟着豆包攻克的第一个爬虫网页 |
+| [dy-spider.py](spider/dy-spider.py) | 跟着抖音校长写的爬取抖音视频 |
+| [bilibili-spider.py](spider/bilibili-spider.py) | B 站视频爬取，下载后合并视频与音频 |
 
 ---
 
@@ -73,9 +75,9 @@ Fish/
 4. 放入循环，变成简单的 CLI 聊天机器人
 5. 加上对话记忆，升级成带记忆的聊天机器人
 
-| 文件 | 描述 | 日期 |
-|------|------|------|
-| [FirstAIProject.py](AICLI/FirstAIProject.py) | CLI 版 AI 聊天机器人（最终版） | 06-21 |
+| 文件 | 描述 |
+|------|------|
+| [FirstAIProject.py](AICLI/FirstAIProject.py) | CLI 版 AI 聊天机器人（最终版） |
 
 > 😭 后悔把最开始写的初版代码删掉了
 
@@ -96,4 +98,4 @@ Fish/
 
 ---
 
-
+*持续更新中… 🚀*
