@@ -27,6 +27,7 @@ Fish/
 | [day2text.py](basic-exercises/day2text.py) | 第二天练习 |
 | [game.py](basic-exercises/game.py) | 猜数字小游戏 |
 | [random.py](basic-exercises/random.py) | random 模块 |
+| [random4.py](basic-exercises/random4.py) | 验证码生成器 |
 | [wheat.py](basic-exercises/wheat.py) | 麦粒棋盘问题 |
 | [sum.py](basic-exercises/sum.py) | 求和运算 |
 | [leep_year.py](basic-exercises/leep_year.py) | 闰年判断 |
@@ -48,6 +49,7 @@ Fish/
 | [tianqi.py](basic-exercises/tianqi.py) | 天气爬虫初探 |
 | [5.5.py](basic-exercises/5.5.py) | 课堂练习 |
 | [练习1创建变量.py](basic-exercises/练习1创建变量.py) | 变量基础练习 |
+| [数字分解质因数.py](basic-exercises/数字分解质因数.py) | 分解质因数 |
 
 ---
 
