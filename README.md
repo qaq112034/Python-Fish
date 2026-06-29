@@ -50,6 +50,7 @@ Fish/
 | [5.5.py](basic-exercises/5.5.py) | 课堂练习 |
 | [练习1创建变量.py](basic-exercises/练习1创建变量.py) | 变量基础练习 |
 | [数字分解质因数.py](basic-exercises/数字分解质因数.py) | 分解质因数 |
+| [ATM.py](basic-exercises/ATM.py) | ATM机 |
 
 ---
 
