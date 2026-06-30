@@ -64,6 +64,7 @@ Fish/
 | [dy-spider.py](spider/dy-spider.py) | 跟着抖音校长写的爬取抖音视频 |
 | [bilibili-spider.py](spider/bilibili-spider.py) | B 站视频爬取，下载后合并视频与音频 |
 | [xs-spider.py](spider/xs-spider.py) | 爬取小说 |
+| [main.py](spider/教务/main.py) | 爬取教务信息 |
 
 ---
 
