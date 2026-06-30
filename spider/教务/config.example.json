@@ -1,0 +1,11 @@
+{
+    "base_url": "https://你的教务系统IP或域名",
+    "context_path": "/gxmzdxxshxy_jsxsd",
+    "student_id": "你的学号",
+    "password": "你的密码",
+    "semesters": ["2025-2026-1"],
+    "delay": {
+        "min": 0.5,
+        "max": 2.0
+    }
+}
